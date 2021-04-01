@@ -1,0 +1,1396 @@
+{
+  "alternate_names": [],
+  "api_path": "/artists/983785",
+  "description": {
+    "plain": "Steven Universe is a Cartoon Network animated series created by Rebecca Sugar. The show revolves around Steven, a half-human-half-Gem boy, and his adventures with the Crystal Gems, humanoid aliens warriors who are sworn to protect the Earth from interstellar threats.\n\n\n\nThe show has been critically acclaimed and has a large fanbase. Steven Universe\u2019s complex lore helps to distinguish it from \u201cyour standard \u201cmonster of the week\u201d cartoon to something that\u2019s actually telling an interesting, deep meta-story\u201d. Steven Universe has been praised for tackling issues such as this that are usually deemed as \u2018too adult\u2019 for a children\u2019s show. Steven inherited his Gem powers from his mother, the former leader of the Crystal Gems, who gave up her physical form to create him. The absence of Rose allows the show to tackle grief and processing the loss of a loved one.\n\n\n\nSexuality is explicitly addressed through romance between the female-presenting Gems, Ruby and Sapphire.\n\n\n\nGems are genderless because they are an alien species, although, they are female presenting by choice. James Whitbrook of Gizmodo acknowledged the show\u2019s inversion of gender roles and the Magical Girl genre with Steven, a male protagonist:\n\nSteven is portrayed as anything but traditionally masculine. He\u2019s unafraid of showing emotion for his friends and family, he is equally comfortable in hanging out with women\u2026 as he is with other boys of his age or his father Greg. Steven embodies the same sort of femininity that all Magical Girl leads do, he just happens to be a boy \u2014 and one that\u2019s not uncomfortable with showing that side of himself\u2026 Steven is never ostracized for that by any other character in the series, but instead embraced for his openness in embracing the feminine and masculine sides of himself equally."
+  },
+  "facebook_name": null,
+  "followers_count": 89,
+  "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+  "id": 983785,
+  "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+  "instagram_name": null,
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Steven Universe",
+  "translation_artist": false,
+  "twitter_name": null,
+  "url": "https://genius.com/artists/Steven-universe",
+  "current_user_metadata": {
+    "permissions": ["view_activity_stream"],
+    "excluded_permissions": [
+      "edit",
+      "edit_images",
+      "edit_names",
+      "edit_anything",
+      "merge",
+      "sort_artist_songs",
+      "follow",
+      "view_contribution_opportunities",
+      "edit_translation_artist",
+      "see_short_id"
+    ],
+    "interactions": {
+      "following": false
+    }
+  },
+  "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2614826,
+    "annotator_login": "Nightospheric",
+    "api_path": "/referents/10160701",
+    "classification": "accepted",
+    "fragment": "Steven Universe",
+    "id": 10160701,
+    "is_description": true,
+    "path": "/10160701/Steven-universe/Steven-universe",
+    "range": {
+      "content": "Steven Universe"
+    },
+    "song_id": null,
+    "url": "https://genius.com/10160701/Steven-universe/Steven-universe",
+    "verified_annotator_ids": [],
+    "annotatable": {
+      "api_path": "/artists/983785",
+      "context": null,
+      "id": 983785,
+      "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+      "link_title": "Steven Universe",
+      "title": "Steven Universe",
+      "type": "Artist",
+      "url": "https://genius.com/artists/Steven-universe"
+    },
+    "annotations": [
+      {
+        "api_path": "/annotations/10160701",
+        "body": {
+          "plain": "Steven Universe is a Cartoon Network animated series created by Rebecca Sugar. The show revolves around Steven, a half-human-half-Gem boy, and his adventures with the Crystal Gems, humanoid aliens warriors who are sworn to protect the Earth from interstellar threats.\n\n\n\nThe show has been critically acclaimed and has a large fanbase. Steven Universe\u2019s complex lore helps to distinguish it from \u201cyour standard \u201cmonster of the week\u201d cartoon to something that\u2019s actually telling an interesting, deep meta-story\u201d. Steven Universe has been praised for tackling issues such as this that are usually deemed as \u2018too adult\u2019 for a children\u2019s show. Steven inherited his Gem powers from his mother, the former leader of the Crystal Gems, who gave up her physical form to create him. The absence of Rose allows the show to tackle grief and processing the loss of a loved one.\n\n\n\nSexuality is explicitly addressed through romance between the female-presenting Gems, Ruby and Sapphire.\n\n\n\nGems are genderless because they are an alien species, although, they are female presenting by choice. James Whitbrook of Gizmodo acknowledged the show\u2019s inversion of gender roles and the Magical Girl genre with Steven, a male protagonist:\n\nSteven is portrayed as anything but traditionally masculine. He\u2019s unafraid of showing emotion for his friends and family, he is equally comfortable in hanging out with women\u2026 as he is with other boys of his age or his father Greg. Steven embodies the same sort of femininity that all Magical Girl leads do, he just happens to be a boy \u2014 and one that\u2019s not uncomfortable with showing that side of himself\u2026 Steven is never ostracized for that by any other character in the series, but instead embraced for his openness in embracing the feminine and masculine sides of himself equally."
+        },
+        "comment_count": 3,
+        "community": true,
+        "custom_preview": null,
+        "has_voters": true,
+        "id": 10160701,
+        "pinned": false,
+        "share_url": "https://genius.com/10160701",
+        "source": null,
+        "state": "accepted",
+        "url": "https://genius.com/10160701/Steven-universe/Steven-universe",
+        "verified": false,
+        "votes_total": 19,
+        "current_user_metadata": {
+          "permissions": ["create_comment"],
+          "excluded_permissions": [
+            "vote",
+            "edit",
+            "cosign",
+            "uncosign",
+            "destroy",
+            "accept",
+            "reject",
+            "see_unreviewed",
+            "clear_votes",
+            "propose_edit_to",
+            "pin_to_profile",
+            "unpin_from_profile",
+            "update_source",
+            "edit_custom_preview"
+          ],
+          "interactions": {
+            "cosign": false,
+            "pyong": false,
+            "vote": null
+          },
+          "iq_by_action": {}
+        },
+        "authors": [
+          {
+            "attribution": 1.0,
+            "pinned_role": null,
+            "user": {
+              "api_path": "/users/2614826",
+              "avatar": {
+                "tiny": {
+                  "url": "https://images.genius.com/avatars/tiny/7630f7fdeeaf598d895b7c7b7bd402a3",
+                  "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                  }
+                },
+                "thumb": {
+                  "url": "https://images.genius.com/avatars/thumb/7630f7fdeeaf598d895b7c7b7bd402a3",
+                  "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                  }
+                },
+                "small": {
+                  "url": "https://images.genius.com/avatars/small/7630f7fdeeaf598d895b7c7b7bd402a3",
+                  "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                  }
+                },
+                "medium": {
+                  "url": "https://images.genius.com/avatars/medium/7630f7fdeeaf598d895b7c7b7bd402a3",
+                  "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                  }
+                }
+              },
+              "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lGBxpdSQiqZi5adJkM7R_tumblr_nf224tm3091smn4pqo9_1280.jpg",
+              "human_readable_role_for_display": "Editor",
+              "id": 2614826,
+              "iq": 64752,
+              "login": "Nightospheric",
+              "name": "Nightospheric",
+              "role_for_display": "editor",
+              "url": "https://genius.com/Nightospheric",
+              "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": ["follow"],
+                "interactions": {
+                  "following": false
+                }
+              }
+            }
+          }
+        ],
+        "cosigned_by": [],
+        "rejection_comment": null,
+        "verified_by": null
+      }
+    ]
+  },
+  "user": null,
+  "songs": [
+    {
+      "annotation_count": 0,
+      "api_path": "/songs/6528969",
+      "full_title": "Appearance-Related Teasing and Bullying by\u00a0Steven\u00a0Universe",
+      "header_image_thumbnail_url": "https://images.genius.com/0a399f8dcd21d7dd40beae2438a3f233.300x169x1.jpg",
+      "header_image_url": "https://images.genius.com/0a399f8dcd21d7dd40beae2438a3f233.1000x563x1.jpg",
+      "id": 6528969,
+      "lyrics_owner_id": 8253272,
+      "lyrics_state": "complete",
+      "path": "/Steven-universe-appearance-related-teasing-and-bullying-annotated",
+      "pyongs_count": null,
+      "song_art_image_thumbnail_url": "https://images.genius.com/12f71ac330a9e1e5e47931e189d4715c.300x300x1.jpg",
+      "song_art_image_url": "https://images.genius.com/12f71ac330a9e1e5e47931e189d4715c.300x300x1.jpg",
+      "stats": {
+        "accepted_annotations": 0,
+        "contributors": 1,
+        "iq_earners": 1,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false
+      },
+      "title": "Appearance-Related Teasing and Bullying",
+      "title_with_featured": "Appearance-Related Teasing and Bullying",
+      "url": "https://genius.com/Steven-universe-appearance-related-teasing-and-bullying-annotated",
+      "primary_artist": {
+        "api_path": "/artists/983785",
+        "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+        "id": 983785,
+        "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Steven Universe",
+        "url": "https://genius.com/artists/Steven-universe"
+      },
+      "apple_music_id": null,
+      "apple_music_player_url": "https://genius.com/songs/6528969/apple_music_player",
+      "description": {
+        "plain": "?"
+      },
+      "embed_content": "<div id='rg_embed_link_6528969' class='rg_embed_link' data-song-id='6528969'>Read <a href='https://genius.com/Steven-universe-appearance-related-teasing-and-bullying-annotated'>\u201cAppearance-Related Teasing and Bullying\u201d by Steven\u00a0Universe</a> on Genius</div> <script crossorigin src='//genius.com/songs/6528969/embed.js'></script>",
+      "featured_video": false,
+      "lyrics_placeholder_reason": null,
+      "recording_location": null,
+      "release_date": "2018-03-31",
+      "release_date_for_display": "March 31, 2018",
+      "current_user_metadata": {
+        "permissions": [
+          "view_apple_music_player",
+          "create_comment",
+          "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+          "follow",
+          "award_transcription_iq",
+          "remove_transcription_iq",
+          "see_pageviews",
+          "pyong",
+          "edit_lyrics",
+          "view_annotation_engagement_data",
+          "publish",
+          "unpublish",
+          "edit_spotify_details",
+          "hide",
+          "unhide",
+          "toggle_featured_video",
+          "add_pinned_annotation_to",
+          "add_community_annotation_to",
+          "destroy",
+          "mark_as_not_spam",
+          "edit_spotify_annotations_for",
+          "verify_lyrics",
+          "unverify_lyrics",
+          "edit_anything",
+          "edit_any_media",
+          "edit",
+          "rename",
+          "edit_tags",
+          "watch_fact_track",
+          "reindex",
+          "view_lyrics_synchronization",
+          "enable_media",
+          "disable_media",
+          "edit_lyrics_or_annotation_brackets",
+          "see_editorial_indicators",
+          "view_attribution_visualization",
+          "edit_annotation_brackets",
+          "preview_lyrics_for_export",
+          "hide_apple_player",
+          "unhide_apple_player",
+          "trigger_apple_match",
+          "mark_lyrics_evaluation_as_approved",
+          "mark_lyrics_evaluation_as_staff_approved",
+          "mark_lyrics_evaluation_as_unapproved",
+          "mark_lyrics_evaluation_as_un_staff_approved",
+          "view_transcriber_media_player",
+          "override_apple_match",
+          "edit_youtube_url",
+          "edit_soundcloud_url",
+          "edit_spotify_uuid",
+          "edit_vevo_url",
+          "moderate_annotations",
+          "create_annotation",
+          "see_short_id",
+          "manage_chart_item",
+          "create_tag",
+          "propose_lyrics_edit",
+          "moderate_lyrics_edit_proposals",
+          "preview_react_song_page"
+        ],
+        "interactions": {
+          "pyong": false,
+          "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+      },
+      "album": {
+        "api_path": "/albums/740012",
+        "cover_art_url": "https://images.genius.com/9ebaf0b63d45eef05f295d52742be648.960x960x1.jpg",
+        "full_title": "Dove Self-Esteem Project by Steven Universe",
+        "id": 740012,
+        "name": "Dove Self-Esteem Project",
+        "url": "https://genius.com/albums/Steven-universe/Dove-self-esteem-project",
+        "artist": {
+          "api_path": "/artists/983785",
+          "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+          "id": 983785,
+          "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Steven Universe",
+          "url": "https://genius.com/artists/Steven-universe"
+        }
+      },
+      "custom_performances": [
+        {
+          "label": "Storyboard By",
+          "artists": [
+            {
+              "api_path": "/artists/75298",
+              "header_image_url": "https://images.genius.com/2c66ffbe1730d9ed8fa246d2946fd93d.454x454x1.png",
+              "id": 75298,
+              "image_url": "https://images.genius.com/2c66ffbe1730d9ed8fa246d2946fd93d.454x454x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Elizabeth Ito",
+              "url": "https://genius.com/artists/Elizabeth-ito"
+            }
+          ]
+        }
+      ],
+      "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8253272,
+        "annotator_login": "Homochondria",
+        "api_path": "/referents/22290525",
+        "classification": "needs_exegesis",
+        "fragment": "Appearance-Related Teasing and Bullying",
+        "id": 22290525,
+        "is_description": true,
+        "path": "/22290525/Steven-universe-appearance-related-teasing-and-bullying/Appearance-related-teasing-and-bullying",
+        "range": {
+          "content": "Appearance-Related Teasing and Bullying"
+        },
+        "song_id": 6528969,
+        "url": "https://genius.com/22290525/Steven-universe-appearance-related-teasing-and-bullying/Appearance-related-teasing-and-bullying",
+        "verified_annotator_ids": [],
+        "annotatable": {
+          "api_path": "/songs/6528969",
+          "client_timestamps": {
+            "updated_by_human_at": 1614669856,
+            "lyrics_updated_at": 1614284680
+          },
+          "context": "Steven Universe",
+          "id": 6528969,
+          "image_url": "https://images.genius.com/12f71ac330a9e1e5e47931e189d4715c.300x300x1.jpg",
+          "link_title": "Appearance-Related Teasing and Bullying by\u00a0Steven\u00a0Universe",
+          "title": "Appearance-Related Teasing and Bullying",
+          "type": "Song",
+          "url": "https://genius.com/Steven-universe-appearance-related-teasing-and-bullying-annotated"
+        },
+        "annotations": [
+          {
+            "api_path": "/annotations/22290525",
+            "body": {
+              "plain": ""
+            },
+            "comment_count": 0,
+            "community": true,
+            "custom_preview": null,
+            "has_voters": false,
+            "id": 22290525,
+            "pinned": false,
+            "share_url": "https://genius.com/22290525",
+            "source": null,
+            "state": "needs_exegesis",
+            "url": "https://genius.com/22290525/Steven-universe-appearance-related-teasing-and-bullying/Appearance-related-teasing-and-bullying",
+            "verified": false,
+            "votes_total": 0,
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "vote",
+                "edit",
+                "cosign",
+                "uncosign",
+                "destroy",
+                "accept",
+                "reject",
+                "see_unreviewed",
+                "clear_votes",
+                "propose_edit_to",
+                "pin_to_profile",
+                "unpin_from_profile",
+                "update_source",
+                "edit_custom_preview",
+                "create_comment"
+              ],
+              "interactions": {
+                "cosign": false,
+                "pyong": false,
+                "vote": null
+              },
+              "iq_by_action": {}
+            },
+            "authors": [
+              {
+                "attribution": 1.0,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/8253272",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/a505e5c9cda39bbb1675e95adb14b025",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/a505e5c9cda39bbb1675e95adb14b025",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/a505e5c9cda39bbb1675e95adb14b025",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/a505e5c9cda39bbb1675e95adb14b025",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/opvlj4orm78",
+                  "human_readable_role_for_display": "Contributor",
+                  "id": 8253272,
+                  "iq": 8819,
+                  "login": "Homochondria",
+                  "name": "Homochondria",
+                  "role_for_display": "contributor",
+                  "url": "https://genius.com/Homochondria",
+                  "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": ["follow"],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": null
+          }
+        ]
+      },
+      "featured_artists": [],
+      "lyrics_marked_complete_by": null,
+      "media": [
+        {
+          "provider": "youtube",
+          "start": 0,
+          "type": "video",
+          "url": "http://www.youtube.com/watch?v=vxwqcEZHHTM"
+        }
+      ],
+      "producer_artists": [],
+      "song_relationships": [
+        {
+          "relationship_type": "samples",
+          "type": "samples",
+          "songs": []
+        },
+        {
+          "relationship_type": "sampled_in",
+          "type": "sampled_in",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolates",
+          "type": "interpolates",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolated_by",
+          "type": "interpolated_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "cover_of",
+          "type": "cover_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "covered_by",
+          "type": "covered_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "remix_of",
+          "type": "remix_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "remixed_by",
+          "type": "remixed_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "live_version_of",
+          "type": "live_version_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "performed_live_as",
+          "type": "performed_live_as",
+          "songs": []
+        }
+      ],
+      "verified_annotations_by": [],
+      "verified_contributors": [],
+      "verified_lyrics_by": [],
+      "writer_artists": [
+        {
+          "api_path": "/artists/76079",
+          "header_image_url": "https://images.genius.com/ee5d4a71d1fee9131ff8f429619b7083.400x400x1.jpg",
+          "id": 76079,
+          "image_url": "https://images.genius.com/83095745c08a7370ba7eb9c6d008e3de.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rebecca Sugar",
+          "url": "https://genius.com/artists/Rebecca-sugar"
+        }
+      ],
+      "artist": "Steven Universe",
+      "lyrics": "AMETHYST: People say words can't hurt but I know from experience that's not true\nJASPER: You look so small. You look so weak.\nDIRECTOR: Jasper, a little to the right.\nJASPER: Oh. You look wrong.\nAMETHYST: So I'm short. I stayed in the ground a little too long. Got a little smushed, (Jasper chuckles), but maybe I'm okay like this. And maybe she's blowing things out of proportion 'cause she's got her own issues to work out.\nJASPER: What?\nAMETHYST: Who knows but what I do know is I can always say, hey I don't appreciate that.\nJASPER: Who cares what you think, runt?\nJasper rampages and tears apart the set in the background\nAMETHYST: Just be you. It's up to them to realize they're being the bully.\nJasper stops, steps in from of camera beside Amethyst\nJASPER: No one deserves to be made fun of because of how they look. If you catch yourself making harmful comments, maybe think about where that anger is coming from.\nDIRECTOR: Great cut!\nJASPER: How do you keep your cool like that? This is soo much pressure.\nAMETHYST: Pressure made me who I am.\nJASPER: Wow."
+    },
+    {
+      "annotation_count": 1,
+      "api_path": "/songs/4805894",
+      "full_title": "A Special World by\u00a0Steven\u00a0Universe",
+      "header_image_thumbnail_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.300x300x1.jpg",
+      "header_image_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.1000x1000x1.jpg",
+      "id": 4805894,
+      "lyrics_owner_id": 4111735,
+      "lyrics_state": "complete",
+      "path": "/Steven-universe-a-special-world-lyrics",
+      "pyongs_count": null,
+      "song_art_image_thumbnail_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.300x300x1.jpg",
+      "song_art_image_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.1000x1000x1.jpg",
+      "stats": {
+        "accepted_annotations": 0,
+        "contributors": 5,
+        "iq_earners": 5,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false
+      },
+      "title": "A Special World",
+      "title_with_featured": "A Special World",
+      "url": "https://genius.com/Steven-universe-a-special-world-lyrics",
+      "primary_artist": {
+        "api_path": "/artists/983785",
+        "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+        "id": 983785,
+        "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Steven Universe",
+        "url": "https://genius.com/artists/Steven-universe"
+      },
+      "apple_music_id": "1477255192",
+      "apple_music_player_url": "https://genius.com/songs/4805894/apple_music_player",
+      "description": {
+        "plain": "?"
+      },
+      "embed_content": "<div id='rg_embed_link_4805894' class='rg_embed_link' data-song-id='4805894'>Read <a href='https://genius.com/Steven-universe-a-special-world-lyrics'>\u201cA Special World\u201d by Steven\u00a0Universe</a> on Genius</div> <script crossorigin src='//genius.com/songs/4805894/embed.js'></script>",
+      "featured_video": false,
+      "lyrics_placeholder_reason": "instrumental",
+      "recording_location": null,
+      "release_date": "2019-09-02",
+      "release_date_for_display": "September 2, 2019",
+      "current_user_metadata": {
+        "permissions": [
+          "view_apple_music_player",
+          "create_comment",
+          "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+          "follow",
+          "award_transcription_iq",
+          "remove_transcription_iq",
+          "see_pageviews",
+          "pyong",
+          "edit_lyrics",
+          "view_annotation_engagement_data",
+          "publish",
+          "unpublish",
+          "edit_spotify_details",
+          "hide",
+          "unhide",
+          "toggle_featured_video",
+          "add_pinned_annotation_to",
+          "add_community_annotation_to",
+          "destroy",
+          "mark_as_not_spam",
+          "edit_spotify_annotations_for",
+          "verify_lyrics",
+          "unverify_lyrics",
+          "edit_anything",
+          "edit_any_media",
+          "edit",
+          "rename",
+          "edit_tags",
+          "watch_fact_track",
+          "reindex",
+          "view_lyrics_synchronization",
+          "enable_media",
+          "disable_media",
+          "edit_lyrics_or_annotation_brackets",
+          "see_editorial_indicators",
+          "view_attribution_visualization",
+          "edit_annotation_brackets",
+          "preview_lyrics_for_export",
+          "hide_apple_player",
+          "unhide_apple_player",
+          "trigger_apple_match",
+          "mark_lyrics_evaluation_as_approved",
+          "mark_lyrics_evaluation_as_staff_approved",
+          "mark_lyrics_evaluation_as_unapproved",
+          "mark_lyrics_evaluation_as_un_staff_approved",
+          "view_transcriber_media_player",
+          "override_apple_match",
+          "edit_youtube_url",
+          "edit_soundcloud_url",
+          "edit_spotify_uuid",
+          "edit_vevo_url",
+          "moderate_annotations",
+          "create_annotation",
+          "see_short_id",
+          "manage_chart_item",
+          "create_tag",
+          "propose_lyrics_edit",
+          "moderate_lyrics_edit_proposals",
+          "preview_react_song_page"
+        ],
+        "interactions": {
+          "pyong": false,
+          "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+      },
+      "album": {
+        "api_path": "/albums/556058",
+        "cover_art_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.1000x1000x1.jpg",
+        "full_title": "Steven Universe The Movie (Original Soundtrack) by Steven Universe",
+        "id": 556058,
+        "name": "Steven Universe The Movie (Original Soundtrack)",
+        "url": "https://genius.com/albums/Steven-universe/Steven-universe-the-movie-original-soundtrack",
+        "artist": {
+          "api_path": "/artists/983785",
+          "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+          "id": 983785,
+          "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Steven Universe",
+          "url": "https://genius.com/artists/Steven-universe"
+        }
+      },
+      "custom_performances": [],
+      "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 5592707,
+        "annotator_login": "CryoCrescent",
+        "api_path": "/referents/17876822",
+        "classification": "needs_exegesis",
+        "fragment": "A Special World",
+        "id": 17876822,
+        "is_description": true,
+        "path": "/17876822/Steven-universe-a-special-world/A-special-world",
+        "range": {
+          "content": "A Special World"
+        },
+        "song_id": 4805894,
+        "url": "https://genius.com/17876822/Steven-universe-a-special-world/A-special-world",
+        "verified_annotator_ids": [],
+        "annotatable": {
+          "api_path": "/songs/4805894",
+          "client_timestamps": {
+            "updated_by_human_at": 1578538990,
+            "lyrics_updated_at": 1578538990
+          },
+          "context": "Steven Universe",
+          "id": 4805894,
+          "image_url": "https://images.genius.com/69dd0808e3061f673a0765f1c88b5e45.1000x1000x1.jpg",
+          "link_title": "A Special World by\u00a0Steven\u00a0Universe",
+          "title": "A Special World",
+          "type": "Song",
+          "url": "https://genius.com/Steven-universe-a-special-world-lyrics"
+        },
+        "annotations": [
+          {
+            "api_path": "/annotations/17876822",
+            "body": {
+              "plain": ""
+            },
+            "comment_count": 0,
+            "community": true,
+            "custom_preview": null,
+            "has_voters": false,
+            "id": 17876822,
+            "pinned": false,
+            "share_url": "https://genius.com/17876822",
+            "source": null,
+            "state": "needs_exegesis",
+            "url": "https://genius.com/17876822/Steven-universe-a-special-world/A-special-world",
+            "verified": false,
+            "votes_total": 0,
+            "current_user_metadata": {
+              "permissions": [],
+              "excluded_permissions": [
+                "vote",
+                "edit",
+                "cosign",
+                "uncosign",
+                "destroy",
+                "accept",
+                "reject",
+                "see_unreviewed",
+                "clear_votes",
+                "propose_edit_to",
+                "pin_to_profile",
+                "unpin_from_profile",
+                "update_source",
+                "edit_custom_preview",
+                "create_comment"
+              ],
+              "interactions": {
+                "cosign": false,
+                "pyong": false,
+                "vote": null
+              },
+              "iq_by_action": {}
+            },
+            "authors": [
+              {
+                "attribution": 1.0,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/5592707",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/e21490290aeaf2659c105ad9b9dd30b6",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/e21490290aeaf2659c105ad9b9dd30b6",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/e21490290aeaf2659c105ad9b9dd30b6",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/e21490290aeaf2659c105ad9b9dd30b6",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/1d267f834a44ade79ab35ff5aef439f3.1000x563x1.png",
+                  "human_readable_role_for_display": "Editor",
+                  "id": 5592707,
+                  "iq": 16667,
+                  "login": "CryoCrescent",
+                  "name": "\u200bCryoCrescent",
+                  "role_for_display": "editor",
+                  "url": "https://genius.com/CryoCrescent",
+                  "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": ["follow"],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": null
+          }
+        ]
+      },
+      "featured_artists": [],
+      "lyrics_marked_complete_by": null,
+      "media": [],
+      "producer_artists": [
+        {
+          "api_path": "/artists/1396744",
+          "header_image_url": "https://images.genius.com/f1115f1076a588ae8b364afc4c7a12f4.1000x1000x1.jpg",
+          "id": 1396744,
+          "image_url": "https://images.genius.com/1db93e32c49884ff3da7879e19be980f.475x475x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aivi & Surasshu",
+          "url": "https://genius.com/artists/Aivi-and-surasshu"
+        }
+      ],
+      "song_relationships": [
+        {
+          "relationship_type": "samples",
+          "type": "samples",
+          "songs": []
+        },
+        {
+          "relationship_type": "sampled_in",
+          "type": "sampled_in",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolates",
+          "type": "interpolates",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolated_by",
+          "type": "interpolated_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "cover_of",
+          "type": "cover_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "covered_by",
+          "type": "covered_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "remix_of",
+          "type": "remix_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "remixed_by",
+          "type": "remixed_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "live_version_of",
+          "type": "live_version_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "performed_live_as",
+          "type": "performed_live_as",
+          "songs": []
+        }
+      ],
+      "verified_annotations_by": [],
+      "verified_contributors": [],
+      "verified_lyrics_by": [],
+      "writer_artists": [],
+      "artist": "Steven Universe",
+      "lyrics": ""
+    },
+    {
+      "annotation_count": 9,
+      "api_path": "/songs/5396665",
+      "full_title": "Being Human [From Steven Universe Future] by\u00a0Steven\u00a0Universe (Ft.\u00a0Emily\u00a0King)",
+      "header_image_thumbnail_url": "https://images.genius.com/776ab925e4ee84985e22dbb40af08daa.300x169x1.png",
+      "header_image_url": "https://images.genius.com/776ab925e4ee84985e22dbb40af08daa.1000x563x1.png",
+      "id": 5396665,
+      "lyrics_owner_id": 3246439,
+      "lyrics_state": "complete",
+      "path": "/Steven-universe-being-human-from-steven-universe-future-lyrics",
+      "pyongs_count": 1,
+      "song_art_image_thumbnail_url": "https://images.genius.com/218dfa4846713fd45cfc2f3996d0666e.300x300x1.jpg",
+      "song_art_image_url": "https://images.genius.com/218dfa4846713fd45cfc2f3996d0666e.640x640x1.jpg",
+      "stats": {
+        "accepted_annotations": 0,
+        "contributors": 17,
+        "iq_earners": 17,
+        "transcribers": 2,
+        "unreviewed_annotations": 9,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 15510
+      },
+      "title": "Being Human [From Steven Universe Future]",
+      "title_with_featured": "Being Human [From Steven Universe Future] (Ft.\u00a0Emily\u00a0King)",
+      "url": "https://genius.com/Steven-universe-being-human-from-steven-universe-future-lyrics",
+      "primary_artist": {
+        "api_path": "/artists/983785",
+        "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+        "id": 983785,
+        "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Steven Universe",
+        "url": "https://genius.com/artists/Steven-universe"
+      },
+      "apple_music_id": "1517074847",
+      "apple_music_player_url": "https://genius.com/songs/5396665/apple_music_player",
+      "description": {
+        "plain": "\u201cbeing human\u201d means that Steven is human now since he was a monster (but hes still half gem). he\u2019s happy to be human and he needs do go somewhere else to move on from that(being a monster). He needs something else. He needs to move on."
+      },
+      "embed_content": "<div id='rg_embed_link_5396665' class='rg_embed_link' data-song-id='5396665'>Read <a href='https://genius.com/Steven-universe-being-human-from-steven-universe-future-lyrics'>\u201cBeing Human [From Steven Universe Future]\u201d by Steven\u00a0Universe</a> on Genius</div> <script crossorigin src='//genius.com/songs/5396665/embed.js'></script>",
+      "featured_video": false,
+      "lyrics_placeholder_reason": null,
+      "recording_location": null,
+      "release_date": "2020-03-27",
+      "release_date_for_display": "March 27, 2020",
+      "current_user_metadata": {
+        "permissions": [
+          "see_pageviews",
+          "view_apple_music_player",
+          "create_comment",
+          "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+          "follow",
+          "award_transcription_iq",
+          "remove_transcription_iq",
+          "pyong",
+          "edit_lyrics",
+          "view_annotation_engagement_data",
+          "publish",
+          "unpublish",
+          "edit_spotify_details",
+          "hide",
+          "unhide",
+          "toggle_featured_video",
+          "add_pinned_annotation_to",
+          "add_community_annotation_to",
+          "destroy",
+          "mark_as_not_spam",
+          "edit_spotify_annotations_for",
+          "verify_lyrics",
+          "unverify_lyrics",
+          "edit_anything",
+          "edit_any_media",
+          "edit",
+          "rename",
+          "edit_tags",
+          "watch_fact_track",
+          "reindex",
+          "view_lyrics_synchronization",
+          "enable_media",
+          "disable_media",
+          "edit_lyrics_or_annotation_brackets",
+          "see_editorial_indicators",
+          "view_attribution_visualization",
+          "edit_annotation_brackets",
+          "preview_lyrics_for_export",
+          "hide_apple_player",
+          "unhide_apple_player",
+          "trigger_apple_match",
+          "mark_lyrics_evaluation_as_approved",
+          "mark_lyrics_evaluation_as_staff_approved",
+          "mark_lyrics_evaluation_as_unapproved",
+          "mark_lyrics_evaluation_as_un_staff_approved",
+          "view_transcriber_media_player",
+          "override_apple_match",
+          "edit_youtube_url",
+          "edit_soundcloud_url",
+          "edit_spotify_uuid",
+          "edit_vevo_url",
+          "moderate_annotations",
+          "create_annotation",
+          "see_short_id",
+          "manage_chart_item",
+          "create_tag",
+          "propose_lyrics_edit",
+          "moderate_lyrics_edit_proposals",
+          "preview_react_song_page"
+        ],
+        "interactions": {
+          "pyong": false,
+          "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+      },
+      "album": {
+        "api_path": "/albums/695565",
+        "cover_art_url": "https://images.genius.com/ce63146324b8d153a03eb1040cb575ea.1000x1000x1.png",
+        "full_title": "Steven Universe Future (Original Soundtrack) by Steven Universe",
+        "id": 695565,
+        "name": "Steven Universe Future (Original Soundtrack)",
+        "url": "https://genius.com/albums/Steven-universe/Steven-universe-future-original-soundtrack",
+        "artist": {
+          "api_path": "/artists/983785",
+          "header_image_url": "https://images.genius.com/e3b58c3f5a25c0a61067d1f001fafc05.1000x750x1.jpg",
+          "id": 983785,
+          "image_url": "https://images.genius.com/36ea8157bbf011668a5c44a2344ed98f.648x648x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Steven Universe",
+          "url": "https://genius.com/artists/Steven-universe"
+        }
+      },
+      "custom_performances": [
+        {
+          "label": "Mixed By",
+          "artists": [
+            {
+              "api_path": "/artists/980604",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "id": 980604,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "James Roach",
+              "url": "https://genius.com/artists/James-roach"
+            }
+          ]
+        },
+        {
+          "label": "Synth By",
+          "artists": [
+            {
+              "api_path": "/artists/343017",
+              "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+              "id": 343017,
+              "image_url": "https://images.genius.com/9a95344fc0497b1ffe786a6f1bd15442.203x203x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Steven \u201cSurasshu\u201d Velema",
+              "url": "https://genius.com/artists/Steven-surasshu-velema"
+            }
+          ]
+        },
+        {
+          "label": "Bass By",
+          "artists": [
+            {
+              "api_path": "/artists/1938536",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "id": 1938536,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Travis Kindred",
+              "url": "https://genius.com/artists/Travis-kindred"
+            }
+          ]
+        },
+        {
+          "label": "Guitarist",
+          "artists": [
+            {
+              "api_path": "/artists/2229473",
+              "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "id": 2229473,
+              "image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Edwin Rhodes",
+              "url": "https://genius.com/artists/Edwin-rhodes"
+            }
+          ]
+        },
+        {
+          "label": "Keyboard by",
+          "artists": [
+            {
+              "api_path": "/artists/343016",
+              "header_image_url": "https://images.genius.com/144acb01907ee95841fa165b232a29fc.1000x563x1.png",
+              "id": 343016,
+              "image_url": "https://images.genius.com/2d8854c26e07210ba726f202c5b18898.922x922x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Aivi Tran",
+              "url": "https://genius.com/artists/Aivi-tran"
+            }
+          ]
+        },
+        {
+          "label": "Drums",
+          "artists": [
+            {
+              "api_path": "/artists/343021",
+              "header_image_url": "https://images.genius.com/9bbfa37555677cfd6721f75415c0c003.1000x333x1.png",
+              "id": 343021,
+              "image_url": "https://images.genius.com/6f84dedacd147765e52c505ef43869e0.400x400x1.png",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Rekcahdam",
+              "url": "https://genius.com/artists/Rekcahdam"
+            }
+          ]
+        }
+      ],
+      "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 10743902,
+        "annotator_login": "stevenquartzuniverse",
+        "api_path": "/referents/19402803",
+        "classification": "unreviewed",
+        "fragment": "Being Human [From Steven Universe Future]",
+        "id": 19402803,
+        "is_description": true,
+        "path": "/19402803/Steven-universe-being-human-from-steven-universe-future/Being-human-from-steven-universe-future",
+        "range": {
+          "content": "Being Human [From Steven Universe Future]"
+        },
+        "song_id": 5396665,
+        "url": "https://genius.com/19402803/Steven-universe-being-human-from-steven-universe-future/Being-human-from-steven-universe-future",
+        "verified_annotator_ids": [],
+        "annotatable": {
+          "api_path": "/songs/5396665",
+          "client_timestamps": {
+            "updated_by_human_at": 1607828927,
+            "lyrics_updated_at": 1607828926
+          },
+          "context": "Steven Universe",
+          "id": 5396665,
+          "image_url": "https://images.genius.com/218dfa4846713fd45cfc2f3996d0666e.640x640x1.jpg",
+          "link_title": "Being Human [From Steven Universe Future] by\u00a0Steven\u00a0Universe (Ft.\u00a0Emily\u00a0King)",
+          "title": "Being Human [From Steven Universe Future]",
+          "type": "Song",
+          "url": "https://genius.com/Steven-universe-being-human-from-steven-universe-future-lyrics"
+        },
+        "annotations": [
+          {
+            "api_path": "/annotations/19402803",
+            "body": {
+              "plain": "\u201cbeing human\u201d means that Steven is human now since he was a monster (but hes still half gem). he\u2019s happy to be human and he needs do go somewhere else to move on from that(being a monster). He needs something else. He needs to move on."
+            },
+            "comment_count": 0,
+            "community": true,
+            "custom_preview": null,
+            "has_voters": true,
+            "id": 19402803,
+            "pinned": false,
+            "share_url": "https://genius.com/19402803",
+            "source": null,
+            "state": "pending",
+            "url": "https://genius.com/19402803/Steven-universe-being-human-from-steven-universe-future/Being-human-from-steven-universe-future",
+            "verified": false,
+            "votes_total": 2,
+            "current_user_metadata": {
+              "permissions": ["create_comment"],
+              "excluded_permissions": [
+                "vote",
+                "edit",
+                "cosign",
+                "uncosign",
+                "destroy",
+                "accept",
+                "reject",
+                "see_unreviewed",
+                "clear_votes",
+                "propose_edit_to",
+                "pin_to_profile",
+                "unpin_from_profile",
+                "update_source",
+                "edit_custom_preview"
+              ],
+              "interactions": {
+                "cosign": false,
+                "pyong": false,
+                "vote": null
+              },
+              "iq_by_action": {}
+            },
+            "authors": [
+              {
+                "attribution": 0.6170212765957447,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/10301584",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://assets.genius.com/images/default_avatar_16.png?1614711643",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://assets.genius.com/images/default_avatar_32.png?1614711643",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://assets.genius.com/images/default_avatar_100.png?1614711643",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1614711643",
+                  "human_readable_role_for_display": null,
+                  "id": 10301584,
+                  "iq": 7,
+                  "login": "Aislynn2008",
+                  "name": "Aislynn2008",
+                  "role_for_display": null,
+                  "url": "https://genius.com/Aislynn2008",
+                  "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": ["follow"],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              },
+              {
+                "attribution": 0.3829787234042554,
+                "pinned_role": null,
+                "user": {
+                  "api_path": "/users/10743902",
+                  "avatar": {
+                    "tiny": {
+                      "url": "https://images.genius.com/avatars/tiny/0b6fcd0003d8fe52c98cc38ec41c8dea",
+                      "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                      }
+                    },
+                    "thumb": {
+                      "url": "https://images.genius.com/avatars/thumb/0b6fcd0003d8fe52c98cc38ec41c8dea",
+                      "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                      }
+                    },
+                    "small": {
+                      "url": "https://images.genius.com/avatars/small/0b6fcd0003d8fe52c98cc38ec41c8dea",
+                      "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                      }
+                    },
+                    "medium": {
+                      "url": "https://images.genius.com/avatars/medium/0b6fcd0003d8fe52c98cc38ec41c8dea",
+                      "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                      }
+                    }
+                  },
+                  "header_image_url": "https://images.genius.com/avatars/medium/0b6fcd0003d8fe52c98cc38ec41c8dea",
+                  "human_readable_role_for_display": null,
+                  "id": 10743902,
+                  "iq": 128,
+                  "login": "stevenquartzuniverse",
+                  "name": "stevenquartzuniverse",
+                  "role_for_display": null,
+                  "url": "https://genius.com/stevenquartzuniverse",
+                  "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": ["follow"],
+                    "interactions": {
+                      "following": false
+                    }
+                  }
+                }
+              }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": null
+          }
+        ]
+      },
+      "featured_artists": [
+        {
+          "api_path": "/artists/30362",
+          "header_image_url": "https://images.genius.com/86adb76466db93a9bddf9fb3d1f86c73.1000x333x1.jpg",
+          "id": 30362,
+          "image_url": "https://images.genius.com/1e815864c0a1de7e8b00fc96f22d08d1.387x387x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Emily King",
+          "url": "https://genius.com/artists/Emily-king"
+        }
+      ],
+      "lyrics_marked_complete_by": null,
+      "media": [
+        {
+          "provider": "youtube",
+          "start": 0,
+          "type": "video",
+          "url": "http://www.youtube.com/watch?v=ADDXwIvLoc4"
+        }
+      ],
+      "producer_artists": [
+        {
+          "api_path": "/artists/1396744",
+          "header_image_url": "https://images.genius.com/f1115f1076a588ae8b364afc4c7a12f4.1000x1000x1.jpg",
+          "id": 1396744,
+          "image_url": "https://images.genius.com/1db93e32c49884ff3da7879e19be980f.475x475x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Aivi & Surasshu",
+          "url": "https://genius.com/artists/Aivi-and-surasshu"
+        }
+      ],
+      "song_relationships": [
+        {
+          "relationship_type": "samples",
+          "type": "samples",
+          "songs": []
+        },
+        {
+          "relationship_type": "sampled_in",
+          "type": "sampled_in",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolates",
+          "type": "interpolates",
+          "songs": []
+        },
+        {
+          "relationship_type": "interpolated_by",
+          "type": "interpolated_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "cover_of",
+          "type": "cover_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "covered_by",
+          "type": "covered_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "remix_of",
+          "type": "remix_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "remixed_by",
+          "type": "remixed_by",
+          "songs": []
+        },
+        {
+          "relationship_type": "live_version_of",
+          "type": "live_version_of",
+          "songs": []
+        },
+        {
+          "relationship_type": "performed_live_as",
+          "type": "performed_live_as",
+          "songs": []
+        }
+      ],
+      "verified_annotations_by": [],
+      "verified_contributors": [],
+      "verified_lyrics_by": [],
+      "writer_artists": [
+        {
+          "api_path": "/artists/76079",
+          "header_image_url": "https://images.genius.com/ee5d4a71d1fee9131ff8f429619b7083.400x400x1.jpg",
+          "id": 76079,
+          "image_url": "https://images.genius.com/83095745c08a7370ba7eb9c6d008e3de.1000x1000x1.jpg",
+          "is_meme_verified": false,
+          "is_verified": false,
+          "name": "Rebecca Sugar",
+          "url": "https://genius.com/artists/Rebecca-sugar"
+        }
+      ],
+      "artist": "Steven Universe",
+      "lyrics": "Just a little time\nJust a little something else instead\nJust a little time\nJust a little something\u2005up\u2005ahead\nI'm dreaming of\n\nBeing...\nBeing...\nBeing...\nBeing\u2005human\n\nJust a little time\nJust a little\u2005something that I need\nJust a little time\nJust a little feeling\u205fgaining\u205fspeed\nI'm\u205fdreaming of\n\nGoing...\nGoing...\nGoing...\nGoing somewhere\u205felse\nBeing...\nBeing...\nBeing...\nBeing human"
+    }
+  ]
+}
