@@ -1,9 +1,14 @@
-import lyricsgenius, json, pandas as pd, numpy as np, string
+import lyricsgenius
+import json
+import pandas as pd
+import numpy as np
+import string
+import re
 
 def csv_lyrics_creation(filename = "output_songs.csv",
                          artist_name = "Steven Universe", 
                          max_songs = 5,
-                         token = "ACB6RV-hkWn5XMSBGZW0tSClcrztg-Zkql2p_qVhs799QFsHWgQ6_Gnpe430M-Bv"):
+                         token = "dyuHwfM-LUID2D_Ia9vEZneBJLidAlHgasnNyzdBdYkQb7Qrx37E0aIVB51qNuSw"):
     # Connect to Genius API                         
     genius = lyricsgenius.Genius(token)
 
@@ -13,20 +18,22 @@ def csv_lyrics_creation(filename = "output_songs.csv",
     #genius.excluded_terms = [] # Exclude songs with these words in their title
 
     # Fetch all songs by artist "Steven Universe"
-    artist = genius.search_artist(artist_name=artist_name, max_songs=max_songs, sort="title")
-
     SUsongs = {}
     SUsongs["titles"] = []
     SUsongs["lyrics"] = []
-    for song in artist.songs:
-        if(song.lyrics != ""):
-            SUsongs["titles"].append(song.title)
-            SUsongs["lyrics"].append(song.lyrics)
 
-    df = pd.DataFrame(SUsongs)
+    artist = genius.search_artist(artist_name=artist_name, max_songs=max_songs, sort="title")
+    for song in artist.songs:
+        song_lyrics = re.sub("\n", " ", song.lyrics)
+        song_name = song.title
+        
+        # Remove null songs and append them to the JSON
+        if (song_lyrics != "") and (song_name != ""):
+            SUsongs["titles"].append(song_name)
+            SUsongs["lyrics"].append(song_lyrics)
     
-    # Save locally the DataFrame
-    df.to_csv(filename)
+    df = pd.DataFrame(SUsongs)
+    df.to_json(path_or_buf = "output_songs.json")
 
 def clean_data(filename = "output_songs.csv"):
     # Open the filename
@@ -39,4 +46,4 @@ def clean_data(filename = "output_songs.csv"):
     return df
 
 csv_lyrics_creation()
-df = clean_data()
+#df = clean_data()
