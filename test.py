@@ -6,12 +6,12 @@ lyrics = ["AMETHYST: People say words can't hurt but I know from experience that
 
 # Take in account only CAPITALS (for names) without the colon
 regex_singer = r"\S+(?:(?=:))"
-regex_lyrics = r"(?=:)\w+(?=:)"
+regex_lyrics = r"(?<=:)+(?=:)"
 
 list_singer = []
 
 for s in lyrics:
-    list_singer.append(re.findall(regex_singer, s, re.S))
+    list_singer.append(re.findall(regex_lyrics, s, re.S))
 
 
 print(list_singer)
