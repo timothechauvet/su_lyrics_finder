@@ -1,15 +1,15 @@
 import lyricsgenius
 import json
-import pandas as pd
-import numpy as np
-import string
 import re
 import pprint
+import pymongo
+from pymongo import MongoClient
 
 def json_lyrics_creation(filename = "output_songs.json",
                          artist_name = "Steven Universe", 
-                         max_songs = 15,
-                         token = "znGu5Y5LvZ2pMT3XxHmU-jPMC3bTqpysfTiKOzew49nSiyqDbgSBnfNGUh1_AYRH"):
+                         max_songs = 3,
+                         token = "znGu5Y5LvZ2pMT3XxHmU-jPMC3bTqpysfTiKOzew49nSiyqDbgSBnfNGUh1_AYRH",
+                         mydb = MongoClient('localhost', 27017)["mydatabase"]):
     pp = pprint.PrettyPrinter(width=200, indent=1)
     # Connect to Genius API                         
     genius = lyricsgenius.Genius(token)
@@ -36,9 +36,15 @@ def json_lyrics_creation(filename = "output_songs.json",
                 song["title"] = song_name
                 song["lyrics"] = song_lyrics
                 SUsongs["songs"].append(song)
-    
+
+    # Save it locally
     with open(filename, 'w') as json_file:
         json.dump(SUsongs, json_file)
+    
+    # Save it in the database
+    mydb["steven_universe"].insert_one(SUsongs)
+    
+    
 
 def clean_lyrics(raw_song):
     # Main regex for dispatching singers and lyrics
@@ -72,4 +78,19 @@ def clean_lyrics(raw_song):
     
     return lyrics
 
-json_lyrics_creation()
+def retreive_data_mongo(mydb):
+    pp = pprint.PrettyPrinter(width=200, indent=1)
+    collection_song = mydb["steven_universe"]
+    result = []
+
+    for x in collection_song.find():
+        result.append(x)
+    
+    return result
+
+
+client = MongoClient('localhost', 27017)
+mydb = client["mydatabase"]
+
+json_lyrics_creation(mydb = mydb)
+data_list = retreive_data_mongo(mydb)

@@ -5,9 +5,9 @@ from pymongo import MongoClient
 client = MongoClient('localhost', 27017)
 
 mydb = client["mydatabase"]
-collection_song = mydb["songs"]
+collection_song = mydb["steven_universe"]
 
-with open('test.json') as f:
+with open('output_songs.json') as f:
     file_data = json.load(f)
 
 collection_song.insert_one(file_data)
