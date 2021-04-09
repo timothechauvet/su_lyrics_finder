@@ -1,0 +1,67 @@
+{
+    "songs": {
+        "0": {
+            "title": "Appearance-Related Teasing and Bullying",
+            "lyrics": {
+                "0": {
+                    "singer": "AMETHYST",
+                    "line": "People say words can't hurt but I know from experience that's not true"
+                },
+                "1": {
+                    "singer": "JASPER",
+                    "line": "You look so small. You look so weak."
+                },
+                "2": {
+                    "singer": "DIRECTOR",
+                    "line": "Jasper, a little to the right."
+                },
+                "3": {
+                    "singer": "JASPER",
+                    "line": "Oh. You look wrong."
+                }
+            }
+        },
+        "1": {
+            "title": "Cat Fingers",
+            "lyrics": {
+                "0": {
+                    "singer": "GREG",
+                    "line": "Almost done! Steven, get the hubcaps!"
+                },
+                "1": {
+                    "singer": "STEVEN",
+                    "line": "Hubbing it up!"
+                },
+                "2": {
+                    "singer": "GREG",
+                    "line": "Hub it good! This is a high-profile job."
+                },
+                "3": {
+                    "singer": "STEVEN",
+                    "line": "You mean cause it's the mayor's election-mobile?"
+                }
+            }
+        },
+        "2": {
+            "title": "Appearance-Related Teasing and Bullying",
+            "lyrics": {
+                "0": {
+                    "singer": "STEVEN",
+                    "line": "Hey Mr. Postman, bring me a post, bring me the post that I love the most. Huh? My song came true! Do you have a package for me today?"
+                },
+                "1": {
+                    "singer": "JAMIE",
+                    "line": "Hold on. Let me see what I've got here. Did you order a loaf of bread with a stamp on it?"
+                },
+                "2": {
+                    "singer": "STEVEN",
+                    "line": "No."
+                },
+                "3": {
+                    "singer": "JAMIE",
+                    "line": "Did you order a jury summons for R.J. Finkle?"
+                }
+            }
+        }
+    }
+}

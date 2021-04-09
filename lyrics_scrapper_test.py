@@ -7,7 +7,7 @@ import re
 
 def csv_lyrics_creation(filename = "output_songs.csv",
                          artist_name = "Steven Universe", 
-                         max_songs = 5,
+                         max_songs = 15,
                          token = "dyuHwfM-LUID2D_Ia9vEZneBJLidAlHgasnNyzdBdYkQb7Qrx37E0aIVB51qNuSw"):
     # Connect to Genius API                         
     genius = lyricsgenius.Genius(token)
@@ -19,7 +19,7 @@ def csv_lyrics_creation(filename = "output_songs.csv",
 
     # Fetch all songs by artist "Steven Universe"
     SUsongs = {}
-    SUsongs["titles"] = []
+    SUsongs["songs"] = []
     SUsongs["lyrics"] = []
 
     artist = genius.search_artist(artist_name=artist_name, max_songs=max_songs, sort="title")
@@ -29,7 +29,10 @@ def csv_lyrics_creation(filename = "output_songs.csv",
         
         # Remove null songs and append them to the JSON
         if (song_lyrics != "") and (song_name != ""):
-            SUsongs["titles"].append(song_name)
+            # tmp = {}
+            # tmp["name"] = []
+            # tmp["lyrics"]
+            SUsongs["songs"].append(song_name)
             SUsongs["lyrics"].append(song_lyrics)
     
     df = pd.DataFrame(SUsongs)
