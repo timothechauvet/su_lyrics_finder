@@ -9,12 +9,19 @@ lyrics = ["AMETHYST: People say words can't hurt but I know from experience that
 pp = pprint.PrettyPrinter(width=200, indent=1)
 regex_singer = r"\S+(?:(?=:))"
 regex_lyrics = r"(?:(?<=:\s))(.+?)(?:(?= \S+:)|(?=$)|(?=\n))"
+regex_parenthesis = r"(\(.*?\))"
+regex_double_space = r"(\s{2,})"
 
 
 list_singer = []
 
 for s in lyrics:
-    list_singer.append(re.findall(regex_lyrics, s, re.S))
+    s = re.sub(regex_parenthesis, '', s)
+    s = re.sub(regex_double_space, ' ', s)
+
+    result = re.findall(regex_lyrics, s, re.S)
+    list_singer.append(result)
+
 
 
 pp.pprint(list_singer)
