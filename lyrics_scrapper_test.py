@@ -59,18 +59,16 @@ def clean_lyrics(raw_song):
     result_line     = re.findall(regex_lyrics, raw_song, re.S)
 
     # Uppercase singers and lowercase lyrics for better processing
-    for singer in result_singer:
-        singer = singer.upper()
-    for line in result_line:
-        line = line.lower()
+    result_singer   = [x.upper() for x in result_singer]
+    result_line     = [x.lower() for x in result_line]
 
     # Dispatch all lyrics for better Json readability
     lyrics = []
     for i in range(len(result_singer)):
-        line = {}
-        line["line"]    = result_line[i]
-        line["singer"]  = result_singer[i]
-        lyrics.append(line)
+        curr_line = {}
+        curr_line["line"]    = result_line[i]
+        curr_line["singer"]  = result_singer[i]
+        lyrics.append(curr_line)
     
     return lyrics
 
