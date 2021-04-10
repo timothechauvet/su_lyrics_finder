@@ -1,1 +1,44 @@
-{"songs": [{"title": "Appearance-Related Teasing and Bullying", "lyrics": [{"line": "people say words can't hurt but i know from experience that's not true", "singer": "AMETHYST"}, {"line": "you look so small. you look so weak.", "singer": "JASPER"}, {"line": "jasper, a little to the right.", "singer": "DIRECTOR"}, {"line": "oh. you look wrong.", "singer": "JASPER"}, {"line": "so i'm short. i stayed in the ground a little too long. got a little smushed, , but maybe i'm okay like this. and maybe she's blowing things out of proportion 'cause she's got her own issues to work out.", "singer": "AMETHYST"}, {"line": "what?", "singer": "JASPER"}, {"line": "who knows but what i do know is i can always say, hey i don't appreciate that.", "singer": "AMETHYST"}, {"line": "who cares what you think, runt? jasper rampages and tears apart the set in the background", "singer": "JASPER"}, {"line": "just be you. it's up to them to realize they're being the bully. jasper stops, steps in from of camera beside amethyst", "singer": "AMETHYST"}, {"line": "no one deserves to be made fun of because of how they look. if you catch yourself making harmful comments, maybe think about where that anger is coming from.", "singer": "JASPER"}, {"line": "great cut!", "singer": "DIRECTOR"}, {"line": "how do you keep your cool like that? this is soo much pressure.", "singer": "JASPER"}, {"line": "pressure made me who i am.", "singer": "AMETHYST"}, {"line": "wow.", "singer": "JASPER"}]}]}
+{
+  "songs": [
+    {
+      "title": "Appearance-Related Teasing and Bullying",
+      "lyrics": [
+        {
+          "line": "people say words can't hurt but i know from experience that's not true",
+          "singer": "AMETHYST"
+        },
+        { "line": "you look so small. you look so weak.", "singer": "JASPER" },
+        { "line": "jasper, a little to the right.", "singer": "DIRECTOR" },
+        { "line": "oh. you look wrong.", "singer": "JASPER" },
+        {
+          "line": "so i'm short. i stayed in the ground a little too long. got a little smushed, , but maybe i'm okay like this. and maybe she's blowing things out of proportion 'cause she's got her own issues to work out.",
+          "singer": "AMETHYST"
+        },
+        { "line": "what?", "singer": "JASPER" },
+        {
+          "line": "who knows but what i do know is i can always say, hey i don't appreciate that.",
+          "singer": "AMETHYST"
+        },
+        {
+          "line": "who cares what you think, runt? jasper rampages and tears apart the set in the background",
+          "singer": "JASPER"
+        },
+        {
+          "line": "just be you. it's up to them to realize they're being the bully. jasper stops, steps in from of camera beside amethyst",
+          "singer": "AMETHYST"
+        },
+        {
+          "line": "no one deserves to be made fun of because of how they look. if you catch yourself making harmful comments, maybe think about where that anger is coming from.",
+          "singer": "JASPER"
+        },
+        { "line": "great cut!", "singer": "DIRECTOR" },
+        {
+          "line": "how do you keep your cool like that? this is soo much pressure.",
+          "singer": "JASPER"
+        },
+        { "line": "pressure made me who i am.", "singer": "AMETHYST" },
+        { "line": "wow.", "singer": "JASPER" }
+      ]
+    }
+  ]
+}
