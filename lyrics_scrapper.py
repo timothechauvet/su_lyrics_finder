@@ -94,3 +94,33 @@ mydb = client["mydatabase"]
 
 json_lyrics_creation(mydb = mydb)
 data_list = retreive_data_mongo(mydb)
+
+#QUERIES
+
+def q1(mydb): #list of songs
+    cursor = mydb["steven_universe"].find({}) #song mist
+    print("list of songs")
+    for i in cursor:
+        print (i['songs'][0]['title'])
+
+def q2(mydb): #list of singer+
+    singer_list = [] #singer/nbr song
+    singer_nbr = []
+    cursor = mydb["steven_universe"].find({}) #song mist
+    for i in cursor:
+        for j in (i['songs'][0]['lyrics']):
+            if j['singer'] in singer_list:
+                index = singer_list.index(j['singer'])
+                singer_nbr[index] += 1
+            else:
+                singer_list.append(j['singer'])
+                index = singer_list.index(j['singer'])
+                singer_nbr.append(1)
+    
+    for i in range(len(singer_list)):
+        print('singer:',singer_list[i], ' number of song:',singer_nbr[i])
+
+
+q1(mydb)
+q2(mydb)
+    
